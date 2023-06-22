@@ -1,0 +1,11 @@
+.bimg{
+    background-image: url(./pexels-andrea-piacquadio-3757954.jpg);
+    height: 100vh;
+
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: var(--mdb-card-spacer-y) var(--mdb-card-spacer-x);
+    color: var(--mdb-card-color);
+    margin-left: 130px;
+}
