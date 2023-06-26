@@ -3,9 +3,34 @@
     height: 100vh;
 
 }
-.card-body {
-    flex: 1 1 auto;
-    padding: var(--mdb-card-spacer-y) var(--mdb-card-spacer-x);
-    color: var(--mdb-card-color);
-    margin-left: 130px;
+.h1title  {
+
+ margin-right: 763px;;
+border-radius: 32;
+/* font-size: 1.5rem; */
+border-radius: solid;
+border-style: solid;
+font-size: 60px;
+ margin-top: 100px;
+padding: 61px;
+margin-left: 20px;
+color: indigo;  
+}
+.habt{
+    margin-left: 45px;
+    margin-top: 43px;
+    color: deeppink;
+}
+.h2abt{
+    margin-top: 60px;
+    margin-left: 121px;
+    margin-right: 700px;
+    color: darkcyan;
+   
+}
+.abtcontent{
+    margin-left: 152px;
+    margin-right: 700px;
+    margin-top: 70px;
+    font-size: 25px;
 }
