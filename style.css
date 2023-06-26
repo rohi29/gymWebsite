@@ -34,3 +34,20 @@ color: indigo;
     margin-top: 70px;
     font-size: 25px;
 }
+.row {
+    --mdb-gutter-x: 1.5rem;
+    --mdb-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 120px;
+    /* margin-top: calc(var(--mdb-gutter-y)*-1); */
+    margin-right: calc(var(--mdb-gutter-x)*-0.5);
+    margin-left: calc(var(--mdb-gutter-x)*-0.5);
+}
+.pcontent{
+    margin-right: 100px;
+    font-size: 26px;
+    margin-top: 0;
+    color: mediumblue;
+    
+}
